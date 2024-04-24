@@ -1,0 +1,6 @@
+{
+  "python.analysis.extraPaths": [
+    "/Users/willem/Documents/Development/RPA/robocorp-order-robot/."
+  ],
+  "python.terminal.activateEnvironment": false
+}
